@@ -1,2 +1,2 @@
 #initial commits
-print("try harde")
+print("try")
